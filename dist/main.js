@@ -26,7 +26,7 @@ function takeText() {
         console.log("Element is not a p: ", output);
         return;
     }
-    if (!(quotes instanceof HTMLInputElement)) {
+    if (!(quotes instanceof HTMLTextAreaElement)) {
         console.log("Element is not an input: ", quotes);
         return;
     }

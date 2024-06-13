@@ -35,7 +35,7 @@ function takeText() {
         return;
     }
 
-    if (!(quotes instanceof HTMLInputElement)) {
+    if (!(quotes instanceof HTMLTextAreaElement)) {
         console.log("Element is not an input: ", quotes);
         return;
     }
