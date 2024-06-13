@@ -1,0 +1,25 @@
+{
+  "name": "quickerview",
+  "version": "1.0.0",
+  "description": "A little tool that should make typing quotes out somewhat easier. Note that I did not say easy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyrusnv/QuickerView.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyrusnv/QuickerView/issues"
+  },
+  "homepage": "https://github.com/cyrusnv/QuickerView#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
